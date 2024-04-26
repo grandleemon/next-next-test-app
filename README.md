@@ -26,6 +26,8 @@ Server:
   - [ ] Api documentation
   - [ ] Tests
   - [ ] Containerize?
+  - [ ] Payments? (xD)
+  - [ ] Logs, analytics
      
 Client:
 
