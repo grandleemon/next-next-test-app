@@ -3,7 +3,7 @@ Fullstack todo app to deepdive in `Next.js` and acquaint myself more closely wit
 In plans: `users`, `todos` and `auth` endpoints, authentication (jwt access + refresh tokens), authorization?, also want to try redis, maybe divide into microservices in the future
 
 Some general tasks 
-- [ ] Create develop branch and use this branch for all future branches
+- [x] Create develop branch and use this branch for all future branches
 - [ ] Set up development env both in client and server (eslint, prettier, ide settings, husky, commitizen, .emv)
 - [ ] Think about folder structure
 - [ ] Github? ci/cd
