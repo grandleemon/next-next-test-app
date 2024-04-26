@@ -4,7 +4,7 @@ In plans: `users`, `todos` and `auth` endpoints, authentication (jwt access + re
 
 Some general tasks 
 - [x] Create develop branch and use this branch for all future branches
-- [ ] Set up development env both in client and server (eslint, prettier, ide settings, husky, commitizen, .emv)
+- [ ] Set up development env both in client and server (eslint, prettier, ide settings, husky, commitizen, .env)
 - [ ] Think about folder structure
 - [ ] Github? ci/cd
 - [ ] Deploy to custom domain
@@ -22,8 +22,10 @@ Server:
   - [ ] Security (to not forget)
   - [ ] Users endpoint (not too much to do)
   - [ ] Todos endpoint (not too much to do)
+      - [ ] Filter todos by status
   - [ ] Api documentation
   - [ ] Tests
+  - [ ] Containerize?
      
 Client:
 
