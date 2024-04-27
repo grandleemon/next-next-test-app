@@ -36,3 +36,9 @@ Just simple ui to not spend too much time
 Use `app` router
 
 Split and organize good your code, think about scalability
+
+- [ ] Create login page
+- [ ] Create register page
+- [ ] Create users page with user's todos
+- [ ] Set up redirects
+- [ ] More pages? 
