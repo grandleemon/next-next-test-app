@@ -11,7 +11,7 @@ Some general tasks
       
 Server: 
   - [x] Set up prisma and connect to a database
-  - [ ] Create models and relations between them
+  - [x] Create models and relations between them
   - [ ] Auth endpoint
     - [ ] Login (simple)
     - [ ] Register (simple)
