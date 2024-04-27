@@ -10,7 +10,7 @@ Some general tasks
 - [ ] Deploy to custom domain
       
 Server: 
-  - [ ] Set up prisma and connect to a database
+  - [x] Set up prisma and connect to a database
   - [ ] Create models and relations between them
   - [ ] Auth endpoint
     - [ ] Login (simple)
